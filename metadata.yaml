@@ -23,6 +23,8 @@ creator:
     - http://en.wikipedia.org/wiki/Euripides
     - http://el.wikipedia.org/wiki/%CE%95%CF%85%CF%81%CE%B9%CF%80%CE%AF%CE%B4%CE%B7%CF%82
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27592#---------
 gutenberg_issued: '2008-12-22'
 gutenberg_type: Text
 identifiers:
